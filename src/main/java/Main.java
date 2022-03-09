@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Welcome to currency converter");
         ArrayList<Double> result = new ArrayList<Double>();
         result = extracted(result);
+
         //Fourth Screen
         System.out.println("Thanks for using our currency converter");
         System.out.println("the value history:");
